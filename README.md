@@ -3,4 +3,4 @@ test repo
 
 Testing, testing.
 
-Learning new things  here.
+I have learned new things!
